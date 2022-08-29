@@ -11,6 +11,9 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 
+import './styles/reset.css';
+import './styles/Main.scss';
+
 export default function App() {
   return (
     <BrowserRouter>
