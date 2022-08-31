@@ -1,7 +1,20 @@
+@import url("./Type.scss");
+
+@import url("./Type.scss");
+
+
 html {
-    background-color: lightgrey;
+    // background-color: lightgrey;
 }
 
 body {
     background-color: lightblue;
+    width: 100%;
+    height: 500px;
+    background-image: url("../static/images/AdobeStock_99103458_Preview.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    object-fit: contain;
 }
+
